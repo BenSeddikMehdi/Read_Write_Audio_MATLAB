@@ -19,12 +19,12 @@ Receive Tones using MATLAB report :
 
 
 I-  Record Audio\
- 	    1- Record Michrophone Input.\
+ 	    I-1- Record Michrophone Input.
 
 II-	Write Audio\
-	  1- Description.\
+	  II-1- Description.
 
-II- Specify the quality of recording\
+III- Specify the quality of recording
 
 IV-	
 	1- Note\
