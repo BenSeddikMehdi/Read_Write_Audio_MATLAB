@@ -10,12 +10,12 @@ I-    Creating Sinus Pulse with 20Khz.\
 II-   Influencing Sinus Pulse with noise.\
 III-  Exporting the sounds into output micro(HeadPhone).\
 IV-   Spectral Analysis\
-      IV- 1- Fast Fourier Transform.\
+      IV- 1- Fast Fourier Transform.
 
 
 ## Receive Tones
 
-Receive Tones using MATLAB report :\
+Receive Tones using MATLAB report :
 
 
 I-  Record Audio\
@@ -26,7 +26,8 @@ II-	Write Audio\
 
 II- Specify the quality of recording\
 
-IV-	1- Note\
+IV-	
+	1- Note\
 	2- Tips\
 	3- References\
 
