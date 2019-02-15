@@ -27,9 +27,9 @@ II-	Write Audio\
 III- Specify the quality of recording
 
 IV-	
-	1- Note\
-	2- Tips\
-	3- References\
+	IV-1- Note\
+	IV-2- Tips\
+	IV-3- References
 
 By BENSEDDIK EL Mehdi\
-02/15/2019	\
+02/15/2019	
